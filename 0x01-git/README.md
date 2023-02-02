@@ -1,1 +1,1 @@
-Creating a directory within a repository on Github
+Starting to code today, so cool
